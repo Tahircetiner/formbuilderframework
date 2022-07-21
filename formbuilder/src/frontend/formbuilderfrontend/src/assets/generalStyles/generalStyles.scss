@@ -1,0 +1,15 @@
+/* TODO implement a custom grid*/
+
+
+#app{
+    text-align: center;
+}
+.customForm{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.customForm div{
+    margin: 5px;
+    margin-top: 20px;
+}
